@@ -1,0 +1,1 @@
+<?php header("Location:Page.php?p=index"); ?>

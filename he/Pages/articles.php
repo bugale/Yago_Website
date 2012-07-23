@@ -1,0 +1,1 @@
+﻿<div style="text-align:center;font-size:170%;">	<a href="ethical_code.php" class="links">קוד אתי לקוסמים</a> <br /><br />	<a href="magic_and_kids.php" class="links">על קסמים, ילדים, ומה שבינהם</a> <br /><br />	<a href="masked_magician.php" class="links">הקוסם במסכה</a></div>
